@@ -1,0 +1,21 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+websockets>=11.0
+pydantic-settings>=2.0.0
+numpy
+python-multipart
+# AI / ML
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+optimum
+auto-gptq
+# ASR
+funasr
+modelscope
+# Vector DB
+chromadb>=0.4.0
+sentence-transformers
+# Audio
+soundfile
+librosa
